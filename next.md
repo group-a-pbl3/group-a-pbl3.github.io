@@ -4,7 +4,7 @@ layout: home
 ---
 
 # Group A
-## Team Members/:
+## Team Members:
 
 ### Ali
 ### Deng
