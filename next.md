@@ -3,12 +3,11 @@ title: The Team
 layout: home
 ---
 
-# Group A
-## Team Members:
+# Team Members:
 
-### Ali
-### Deng
-### Hinata
-### Phillip
-### Ryota
-### Sandeep
+1. Ali
+2. Deng
+3. Hinata
+4. Phillip
+5. Sandeep
+6. Ryota
